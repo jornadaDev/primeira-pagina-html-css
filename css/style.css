@@ -1,0 +1,95 @@
+body {
+  background-image: url(../img/FUNDO-SITE.png);
+  font-family: 'Indie Flower', cursive;
+  color: white;
+  text-align: center;
+}
+
+#titulo_principal {
+  text-align: center;
+  color: white;
+}
+
+.sub_titulo {
+  text-align: center;
+  color: white;
+}
+p {
+  color: white;
+  margin: 15px;
+}
+
+.lista {
+  color: white;
+  border-style: solid;
+  border-color: white;
+  background-color: gray;
+}
+.outras {
+  border-style: solid;
+  background-color: gray;
+}
+li {
+  color: white;
+  border: solid;
+}
+
+.tabela {
+  color: white;
+  border-style: solid;
+}
+
+table {
+  color: white;
+  border-style: dotted;
+}
+
+#linha {
+  color: white;
+  border-style: solid;
+  text-align: center;
+}
+
+td {
+  border-style: double;
+}
+
+th {
+  border-style: double;
+}
+
+.enunciado_tabela {
+  border-style: double;
+  background-color: gray;
+}
+
+div {
+  text-align: center;
+  color: white;
+}
+
+.karate {
+  border-color: gray;
+  background-color: gray;
+}
+
+.estudar {
+  border-style: dotted;
+  border-color: gray;
+  background-color: gray;
+}
+
+.esse {
+  text-decoration: none;
+  color: white;
+  background-color: red;
+  padding: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+
+.fonte {
+  color: white;
+}
